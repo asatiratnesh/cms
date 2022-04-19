@@ -1,4 +1,4 @@
-# GoCardless sample application
+# CMS Django
 
 ## Setup
 
